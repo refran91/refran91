@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>REMMY HN</title>
   </head>
   <body>
     <h1>REMMY HN</h1>
